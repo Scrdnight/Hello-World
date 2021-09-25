@@ -11,7 +11,7 @@ One thing that has been interesting to explore is what amazing work has been don
 Been playing Transport Tycoon through Dosbox for a while which is always a form of nostalgia, other dos games may also work well. Yet keep the resolution to a small, widescreen output such as 720x480 to keep it running smoothly. 
 Some of the older dos games are worth purchasing on cd, if you enjoy those.
 
-Some compatabilities haven't really been explored, due to busy lifestyle, yet soon may find time to coding and making use of the gpio header, perhaps even try create a few scripts for circuits that may come in handy. 
+Some compatabilities haven't really been explored, due to busy lifestyle, yet soon may find time to do some coding and make use of the gpio header, perhaps even try create a few scripts for circuits that may come in handy. 
 
 Any suggestions are welcome.
 
